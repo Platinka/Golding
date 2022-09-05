@@ -29,18 +29,19 @@ h2 {
 }
 
 a {
-  color: #477ca7;
+  color: #1a3448;
+  text-decoration: none;
 }
 
 a:visited {
-  color: #74638f;
+  color: #202a5a;
 }
 
 #main {
   margin: 30px 8px;
   padding: 15px;
   border-radius: 5px;
-  background: #eee;
+  background: rgb(102, 138, 168);
 }
 
 @media (max-width: 460px) {
@@ -57,7 +58,7 @@ img {
 }
 
 #img-div {
-  background: white;
+  background: rgb(100, 123, 142);
   padding: 10px;
   margin: 0;
 }
